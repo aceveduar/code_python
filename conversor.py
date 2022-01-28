@@ -38,7 +38,3 @@ elif opcion == 3:
 
 else: 
     print ('Ingresa una opción correcta')
-
-
-
-
